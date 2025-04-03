@@ -2,6 +2,10 @@
 R: A média é o valor tirado através de se somar todos os valores e dividi-los pela quantidade dos mesmos, 
 enquanto a mediana é o valor central entre todos os valores que precisam estar ordenados.
 2. Por que a moda é importante?
-R: Para saber qual é o valor que mais se repete dentro dos dados, o que é muito importante para saber caso tiver o controle sobre os dados que vão estar em amostra
+R: Para saber qual é o valor que mais se repete dentro dos dados, o que é muito importante para saber caso 
+tiver o controle sobre os dados que vão estar em amostra
 3. Qual é o significado da variância?
+R:A variância se trata da distancia que todos os dados estão da media dos dados
 4. Como o desvio padrão relaciona-se com a variância?
+R: Para que se tenha o desvio total, é necessario que se tenha a variância, já que o desvio total é a raiz 
+quadrada da variância.
